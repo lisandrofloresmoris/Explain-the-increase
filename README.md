@@ -25,7 +25,7 @@ This project uses Power BI's Analyze feature to explain unexpected sales spikes 
 ## Visualizations
 - Placeholder for the main chart:
   
-  ![Insert Chart Here](./images/explain_the_increase.png)
+  ![Insert Chart Here](./Explaining_the_increase.png)
 
 ## Conclusion
 This exercise showcases how Power BI’s Analyze feature aids in deriving insights from sudden sales increases. The report highlights valuable patterns and provides decision-making tools for the Adventure Works management team.
